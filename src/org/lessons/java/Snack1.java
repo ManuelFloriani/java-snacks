@@ -17,5 +17,6 @@ public class Snack1 {
             userNumber = numScan.nextInt();
         }
 
+        numScan.close();
     }
 }
